@@ -1,0 +1,4 @@
+class Birth{
+
+ void show(){}
+}
